@@ -7,7 +7,6 @@
 <%
     String title = "O Cart&#227;o Carrefour tem muito mais dicas para voc&#234; ficar sempre no comando das suas contas.";
     String label = "Deixe o seu email e fique por dentro das novidades.";
-    String text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed.";
     String image = request.getContextPath() + "/img/newsletter.png";
 %>
 
@@ -32,11 +31,6 @@
                             <aui:button type="submit" value="&nbsp;" cssClass="btn-submit" />
                         </aui:button-row>
                     </aui:form>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col">
-                    <p><%= text %></p>
                 </div>
             </div>
         </div>
