@@ -7,7 +7,7 @@
 <%
     String title = "O Cart&#227;o Carrefour tem muito mais dicas para voc&#234; ficar sempre no comando das suas contas.";
     String label = "Deixe o seu email e fique por dentro das novidades.";
-    String image = request.getContextPath() + "/img/newsletter.png";
+    String image = request.getContextPath() + "/img/newsletter.jpg";
 %>
 
 <div class="newsletter-container">
